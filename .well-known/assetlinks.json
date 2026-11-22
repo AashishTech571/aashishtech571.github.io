@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.aashishtech571.twa",
+      "sha256_cert_fingerprints": [
+        "1A:AA:A9:DC:ED:8B:1A:DC:38:E6:2F:E4:D7:F6:2D:CA:A8:5B:39:4C:84:80:80:D7:D2:CE:55:05:69:52:DF:AF"
+      ]
+    }
+  }
+]
